@@ -68,13 +68,13 @@ curl -fsSL https://bun.sh/install | bash
 cd try-devnet/packages/cli/
 bun install
 ```
-
-## if you face any error check their FAQ 
-**https://docs.seismic.systems/appendix/devnet**
-
 4. **Send transactions**
 ```
 bash script/transact.sh
 ```
 
 That's all, you just deployed your first contract on SeismicSys & interacted with it. ✅
+
+
+## if you face any error check their FAQ 
+**https://docs.seismic.systems/appendix/devnet**

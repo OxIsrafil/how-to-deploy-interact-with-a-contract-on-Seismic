@@ -69,6 +69,9 @@ cd try-devnet/packages/cli/
 bun install
 ```
 
+## if you face any error check their FAQ 
+**https://docs.seismic.systems/appendix/devnet**
+
 4. **Send transactions**
 ```
 bash script/transact.sh
